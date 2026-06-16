@@ -144,12 +144,14 @@ The model was trained using mini-batch gradient descent and evaluated on a valid
 * Hyperparameter Tuning
 * Model Evaluation
 
+```text
 image-classification-cnn/
 ├── src/
 │   ├── architecture.py
 │   ├── dataset.py
 │   └── train.py
 └── README.md
+```
 
 ## How to Run
 
